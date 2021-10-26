@@ -7,7 +7,7 @@ One of the most common tasks for front-end and junior developers is to take exis
 # Screenshot
 <img src="./assets/images/01-html-css-git-homework-demo.png">
 
-# Link to Respository
+# Link to Repository
 <a href="https://github.com/kaisankyachan/Horiseon-Challenge1">https://github.com/kaisankyachan/Horiseon-Challenge1</a>
 
 # Link to Live Page
